@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 016e1daa4c502184ea3994ac180f292c, type: 3}
+  m_Name: Fuel
+  m_EditorClassIdentifier: 
+  type: 0
+  tier: 2
+  baseCost: 0
+  ingredients:
+  - {fileID: 11400000, guid: 90933acb703937349aee15e6dacb1e43, type: 2}
+  pastIngredients:
+  - {fileID: 11400000, guid: 90933acb703937349aee15e6dacb1e43, type: 2}
+  usedIn:
+  - {fileID: 11400000, guid: 16511cf5838d57d4d91d0552a444d3d6, type: 2}
+  - {fileID: 11400000, guid: 0492ed62a4df8ea449a9b22021f8144c, type: 2}
+  - {fileID: 11400000, guid: 27abf0ec95413aa41b14ac98190dabf3, type: 2}
+  - {fileID: 11400000, guid: ad5a886e2c1959b49a74f0309e8b5bfd, type: 2}
+  - {fileID: 11400000, guid: 499113e7a1ec1f649a4ae959012c567f, type: 2}
+  cachedMoneyPerTick: 20

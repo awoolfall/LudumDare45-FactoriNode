@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 016e1daa4c502184ea3994ac180f292c, type: 3}
+  m_Name: Civilian Boat
+  m_EditorClassIdentifier: 
+  type: 4
+  tier: 10
+  baseCost: 0
+  ingredients:
+  - {fileID: 11400000, guid: ad5a886e2c1959b49a74f0309e8b5bfd, type: 2}
+  - {fileID: 11400000, guid: ad5a886e2c1959b49a74f0309e8b5bfd, type: 2}
+  - {fileID: 11400000, guid: 05e5f6028bd267e4fb7aff884ac65db7, type: 2}
+  - {fileID: 11400000, guid: 829ba7045e790aa4fa6e8cfaff972293, type: 2}
+  pastIngredients:
+  - {fileID: 11400000, guid: ad5a886e2c1959b49a74f0309e8b5bfd, type: 2}
+  - {fileID: 11400000, guid: ad5a886e2c1959b49a74f0309e8b5bfd, type: 2}
+  - {fileID: 11400000, guid: 05e5f6028bd267e4fb7aff884ac65db7, type: 2}
+  - {fileID: 11400000, guid: 829ba7045e790aa4fa6e8cfaff972293, type: 2}
+  usedIn: []
+  cachedMoneyPerTick: 4055

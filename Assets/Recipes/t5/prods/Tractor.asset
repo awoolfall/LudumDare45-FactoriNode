@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 016e1daa4c502184ea3994ac180f292c, type: 3}
+  m_Name: Tractor
+  m_EditorClassIdentifier: 
+  type: 4
+  tier: 5
+  baseCost: 0
+  ingredients:
+  - {fileID: 11400000, guid: dc162bf1ea0a4034f8ca4156da105567, type: 2}
+  - {fileID: 11400000, guid: 981e83f41ce71114782c4334d05da923, type: 2}
+  - {fileID: 11400000, guid: 1503d6c3077d2d440b02d24d185aa381, type: 2}
+  pastIngredients:
+  - {fileID: 11400000, guid: dc162bf1ea0a4034f8ca4156da105567, type: 2}
+  - {fileID: 11400000, guid: 981e83f41ce71114782c4334d05da923, type: 2}
+  - {fileID: 11400000, guid: 1503d6c3077d2d440b02d24d185aa381, type: 2}
+  usedIn: []
+  cachedMoneyPerTick: 548

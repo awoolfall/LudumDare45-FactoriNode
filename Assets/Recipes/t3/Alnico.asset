@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 016e1daa4c502184ea3994ac180f292c, type: 3}
+  m_Name: Alnico
+  m_EditorClassIdentifier: 
+  type: 2
+  tier: 3
+  baseCost: 0
+  ingredients:
+  - {fileID: 11400000, guid: 51da697e924d1f547939502bdd54be96, type: 2}
+  - {fileID: 11400000, guid: 3c6022c31a68cdd4c818afa20ee1d394, type: 2}
+  pastIngredients:
+  - {fileID: 11400000, guid: 51da697e924d1f547939502bdd54be96, type: 2}
+  - {fileID: 11400000, guid: 3c6022c31a68cdd4c818afa20ee1d394, type: 2}
+  usedIn:
+  - {fileID: 11400000, guid: d659b114575393346bf7f74bd1f8b195, type: 2}
+  - {fileID: 11400000, guid: 207fec88b482f014e9010802ea29e72e, type: 2}
+  cachedMoneyPerTick: 37

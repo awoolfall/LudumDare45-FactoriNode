@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 016e1daa4c502184ea3994ac180f292c, type: 3}
+  m_Name: Wheel
+  m_EditorClassIdentifier: 
+  type: 4
+  tier: 5
+  baseCost: 0
+  ingredients:
+  - {fileID: 11400000, guid: 22d374c781ffbb1488cb91c074126465, type: 2}
+  - {fileID: 11400000, guid: 15f012e6e3b1a67498761c0f9a112503, type: 2}
+  - {fileID: 11400000, guid: fc8b48372f27da740a6e084886163fca, type: 2}
+  pastIngredients:
+  - {fileID: 11400000, guid: 22d374c781ffbb1488cb91c074126465, type: 2}
+  - {fileID: 11400000, guid: 15f012e6e3b1a67498761c0f9a112503, type: 2}
+  - {fileID: 11400000, guid: fc8b48372f27da740a6e084886163fca, type: 2}
+  usedIn:
+  - {fileID: 11400000, guid: aaee29b5c70076143a4210fc6aca757b, type: 2}
+  - {fileID: 11400000, guid: 27abf0ec95413aa41b14ac98190dabf3, type: 2}
+  - {fileID: 11400000, guid: 6fcedffaa8163ed4cbec11d4f9643090, type: 2}
+  - {fileID: 11400000, guid: 499113e7a1ec1f649a4ae959012c567f, type: 2}
+  cachedMoneyPerTick: 189

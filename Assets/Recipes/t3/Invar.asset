@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 016e1daa4c502184ea3994ac180f292c, type: 3}
+  m_Name: Invar
+  m_EditorClassIdentifier: 
+  type: 2
+  tier: 3
+  baseCost: 0
+  ingredients:
+  - {fileID: 11400000, guid: 5ad42f0d498ab0543b717c5fe7bdbe6d, type: 2}
+  - {fileID: 11400000, guid: bd38946797a6bb046a8a410626082166, type: 2}
+  pastIngredients:
+  - {fileID: 11400000, guid: 5ad42f0d498ab0543b717c5fe7bdbe6d, type: 2}
+  - {fileID: 11400000, guid: bd38946797a6bb046a8a410626082166, type: 2}
+  usedIn:
+  - {fileID: 11400000, guid: 16511cf5838d57d4d91d0552a444d3d6, type: 2}
+  - {fileID: 11400000, guid: 5dab287ca0d550d4caf57b8d069027ba, type: 2}
+  - {fileID: 11400000, guid: 1d53f56301c989f44a18afea25d44dab, type: 2}
+  cachedMoneyPerTick: 50

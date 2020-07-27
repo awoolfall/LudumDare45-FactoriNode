@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 016e1daa4c502184ea3994ac180f292c, type: 3}
+  m_Name: Advanced Structural Piece
+  m_EditorClassIdentifier: 
+  type: 4
+  tier: 6
+  baseCost: 0
+  ingredients:
+  - {fileID: 11400000, guid: 0e3a51b1aa2119a41b7b67892f116a24, type: 2}
+  - {fileID: 11400000, guid: 7a2b1a8af6294114bbb285b26f8fb47a, type: 2}
+  - {fileID: 11400000, guid: 7a2b1a8af6294114bbb285b26f8fb47a, type: 2}
+  pastIngredients:
+  - {fileID: 11400000, guid: 0e3a51b1aa2119a41b7b67892f116a24, type: 2}
+  - {fileID: 11400000, guid: 7a2b1a8af6294114bbb285b26f8fb47a, type: 2}
+  - {fileID: 11400000, guid: 7a2b1a8af6294114bbb285b26f8fb47a, type: 2}
+  usedIn:
+  - {fileID: 11400000, guid: ca147be6cb2a91249abdca0ecaa5ce37, type: 2}
+  - {fileID: 11400000, guid: 829ba7045e790aa4fa6e8cfaff972293, type: 2}
+  cachedMoneyPerTick: 319

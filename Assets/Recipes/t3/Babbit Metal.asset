@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 016e1daa4c502184ea3994ac180f292c, type: 3}
+  m_Name: Babbit Metal
+  m_EditorClassIdentifier: 
+  type: 2
+  tier: 3
+  baseCost: 0
+  ingredients:
+  - {fileID: 11400000, guid: cb7ac1e15e03b414d92ac423651877fc, type: 2}
+  - {fileID: 11400000, guid: e5532693de48e4649a9d53fb57d6f7d1, type: 2}
+  pastIngredients:
+  - {fileID: 11400000, guid: cb7ac1e15e03b414d92ac423651877fc, type: 2}
+  - {fileID: 11400000, guid: e5532693de48e4649a9d53fb57d6f7d1, type: 2}
+  usedIn:
+  - {fileID: 11400000, guid: 15f012e6e3b1a67498761c0f9a112503, type: 2}
+  - {fileID: 11400000, guid: 83cc7de0b57930b45a040dcebf5ecc85, type: 2}
+  - {fileID: 11400000, guid: feb5ced3ded649b4bb0bf5f147effb3b, type: 2}
+  - {fileID: 11400000, guid: 1d53f56301c989f44a18afea25d44dab, type: 2}
+  cachedMoneyPerTick: 100

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 016e1daa4c502184ea3994ac180f292c, type: 3}
+  m_Name: Advanced Circuit
+  m_EditorClassIdentifier: 
+  type: 3
+  tier: 6
+  baseCost: 0
+  ingredients:
+  - {fileID: 11400000, guid: 325ca67247fe4f2488c15708740dd6c6, type: 2}
+  - {fileID: 11400000, guid: 967bc810b2a9d1047a104718b243e0f6, type: 2}
+  - {fileID: 11400000, guid: bcc373d0919729b4ab841ce913fbe184, type: 2}
+  pastIngredients:
+  - {fileID: 11400000, guid: 325ca67247fe4f2488c15708740dd6c6, type: 2}
+  - {fileID: 11400000, guid: 967bc810b2a9d1047a104718b243e0f6, type: 2}
+  - {fileID: 11400000, guid: bcc373d0919729b4ab841ce913fbe184, type: 2}
+  usedIn:
+  - {fileID: 11400000, guid: e645decc34b918e49bf9907934df51fb, type: 2}
+  - {fileID: 11400000, guid: a696d604d5d97574e92740db892a03e2, type: 2}
+  - {fileID: 11400000, guid: 34e102858ccb8be4ca9a97c8312ed591, type: 2}
+  cachedMoneyPerTick: 215

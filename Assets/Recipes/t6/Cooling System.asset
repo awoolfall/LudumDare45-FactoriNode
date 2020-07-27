@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 016e1daa4c502184ea3994ac180f292c, type: 3}
+  m_Name: Cooling System
+  m_EditorClassIdentifier: 
+  type: 2
+  tier: 6
+  baseCost: 0
+  ingredients:
+  - {fileID: 11400000, guid: 061078e888514984981e9565efc030a1, type: 2}
+  - {fileID: 11400000, guid: 061078e888514984981e9565efc030a1, type: 2}
+  - {fileID: 11400000, guid: e5532693de48e4649a9d53fb57d6f7d1, type: 2}
+  - {fileID: 11400000, guid: 83cc7de0b57930b45a040dcebf5ecc85, type: 2}
+  pastIngredients:
+  - {fileID: 11400000, guid: 061078e888514984981e9565efc030a1, type: 2}
+  - {fileID: 11400000, guid: 061078e888514984981e9565efc030a1, type: 2}
+  - {fileID: 11400000, guid: e5532693de48e4649a9d53fb57d6f7d1, type: 2}
+  - {fileID: 11400000, guid: 83cc7de0b57930b45a040dcebf5ecc85, type: 2}
+  usedIn:
+  - {fileID: 11400000, guid: 2698c1754c6e69f47891879df8a27d0d, type: 2}
+  - {fileID: 11400000, guid: 2ac218fe53ac9c54aa148b1c2b36c8c7, type: 2}
+  - {fileID: 11400000, guid: 34e102858ccb8be4ca9a97c8312ed591, type: 2}
+  cachedMoneyPerTick: 292

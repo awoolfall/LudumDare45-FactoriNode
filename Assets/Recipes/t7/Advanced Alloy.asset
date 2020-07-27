@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 016e1daa4c502184ea3994ac180f292c, type: 3}
+  m_Name: Advanced Alloy
+  m_EditorClassIdentifier: 
+  type: 6
+  tier: 7
+  baseCost: 0
+  ingredients:
+  - {fileID: 11400000, guid: d8c1764b3b7495a44a6b1993d5b86aca, type: 2}
+  - {fileID: 11400000, guid: 7a2b1a8af6294114bbb285b26f8fb47a, type: 2}
+  - {fileID: 11400000, guid: 9fb89ab787704134e8e4b6f0c013ed7e, type: 2}
+  pastIngredients:
+  - {fileID: 11400000, guid: d8c1764b3b7495a44a6b1993d5b86aca, type: 2}
+  - {fileID: 11400000, guid: 7a2b1a8af6294114bbb285b26f8fb47a, type: 2}
+  - {fileID: 11400000, guid: 9fb89ab787704134e8e4b6f0c013ed7e, type: 2}
+  usedIn:
+  - {fileID: 11400000, guid: eef500ee714a7204aab9c8679f189267, type: 2}
+  - {fileID: 11400000, guid: 07c33dc089d4c124d991f2f01f855116, type: 2}
+  - {fileID: 11400000, guid: 829ba7045e790aa4fa6e8cfaff972293, type: 2}
+  cachedMoneyPerTick: 245
